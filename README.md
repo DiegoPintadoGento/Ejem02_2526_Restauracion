@@ -1,3 +1,6 @@
+Nombre propietario del proyecto: Diego Pintado.
+
+
 # Ejem02_2526_Restauracion
 
 # H1

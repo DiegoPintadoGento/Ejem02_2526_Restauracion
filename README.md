@@ -29,6 +29,12 @@ Trabajadores del proyecto:
 | 2 | Jorge | 
 | 3 | Laura | 
 
+| Saludo | Despedida|
+|---------|-----------|
+| Hola | Adios |
+
+
+
 ```
 {
   "firstName": "John",
